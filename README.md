@@ -4,6 +4,8 @@ Nov 8, 2026 · @bart
 
 This is a working reference for running 7shifts at Basic City: where every setting lives, the order things must happen in, the gotchas that cost hours or money, and how to reach the data through the API. Built from the official [7shifts Knowledge Base](https://kb.7shifts.com/hc/en-us) and [developer docs](https://developers.7shifts.com/) on Nov 8, 2026; plan prices come from third-party listings because 7shifts' pricing page doesn't publish them statically.
 
+**Basic City specifics** (company and department IDs, the Supabase sync, labor numbers used in the recap plan): [BASIC_CITY_DATA.md](./BASIC_CITY_DATA.md)
+
 ## Quick reference
 
 | Need | Where |
